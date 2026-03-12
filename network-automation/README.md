@@ -1,4 +1,4 @@
-# Network Automation - Configuration Backup Tool
+# Network Automation: Configuration Backup Tool
 
 A Python tool that connects to network devices via SSH to collect device information and back up running configurations. Supports Cisco IOS, Cisco NX-OS, and Juniper JunOS.
 
