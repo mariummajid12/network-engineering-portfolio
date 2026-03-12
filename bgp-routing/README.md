@@ -4,7 +4,7 @@ A practical BGP lab demonstrating multi-AS enterprise network design with eBGP, 
 
 ## Network Topology
 
-![BGP Multi-AS Enterprise Topology](./bgp_topology.png)
+![BGP Multi-AS Enterprise Topology](./images/bgp_topology.png)
 
 ## Lab Overview
 
