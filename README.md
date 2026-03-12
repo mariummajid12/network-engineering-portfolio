@@ -31,8 +31,6 @@ python network_backup.py --host 192.168.1.1 --device-type cisco_ios --username a
 ### 🔀 BGP & Routing Labs
 **[`bgp-routing/`](./bgp-routing/)**
 
-*(Coming soon)*
-
 BGP configuration examples, route policy design, and troubleshooting scenarios across Cisco IOS/IOS-XR and Juniper JunOS. Covers eBGP, iBGP, route reflectors, communities, and prefix filtering.
 
 ---
