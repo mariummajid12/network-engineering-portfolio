@@ -8,7 +8,7 @@ Built from hands-on experience with enterprise and cloud data centre environment
 
 ## Network Topology
 
-![EVPN/VXLAN Leaf-Spine Topology](./images/dc_topology.png)
+![EVPN/VXLAN Leaf-Spine Topology](./images/dc_topology-2.png)
 
 ---
 
