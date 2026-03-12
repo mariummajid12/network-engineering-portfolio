@@ -1,8 +1,8 @@
-# Network Automation — Configuration Backup Tool
+# Network Automation - Configuration Backup Tool
 
 A Python tool that connects to network devices via SSH to collect device information and back up running configurations. Supports Cisco IOS, Cisco NX-OS, and Juniper JunOS.
 
-Built using [Netmiko](https://github.com/ktbyers/netmiko) — the industry-standard Python library for multi-vendor network device automation.
+Built using [Netmiko](https://github.com/ktbyers/netmiko), the industry-standard Python library for multi-vendor network device automation.
 
 ## Why This Matters
 
@@ -15,7 +15,7 @@ Manual configuration backups are error-prone and time-consuming. In production e
 - Saves timestamped configuration backups per device
 - Generates a JSON summary for each device (useful for CMDB integration)
 - Produces a final backup report across all devices
-- **Mock mode** — runs without real hardware for testing and demonstration
+- **Mock mode** - runs without real hardware for testing and demonstration
 
 ## Supported Platforms
 
@@ -107,8 +107,8 @@ Python 3.7+ required. Mock mode works with no dependencies beyond the standard l
 ## Real-World Application
 
 This type of automation is used for:
-- **Change management** — capturing pre/post-change config snapshots
-- **Disaster recovery** — ensuring recent configs are always available for restore
-- **Compliance auditing** — timestamped config history for audit trails
-- **Network documentation** — automated inventory of device versions and interfaces
+- **Change management** - capturing pre/post-change config snapshots
+- **Disaster recovery** - ensuring recent configs are always available for restore
+- **Compliance auditing** - timestamped config history for audit trails
+- **Network documentation** - automated inventory of device versions and interfaces
 
