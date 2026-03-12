@@ -38,8 +38,6 @@ BGP configuration examples, route policy design, and troubleshooting scenarios a
 ### 🏢 Data Centre Networking
 **[`data-centre/`](./data-centre/)**
 
-*(Coming soon)*
-
 EVPN/VXLAN fabric design and configuration examples for data centre environments. Covers leaf-spine architecture, BGP EVPN control plane, and L2/L3 overlay design on Cisco Nexus and Arista.
 
 ---
@@ -47,16 +45,12 @@ EVPN/VXLAN fabric design and configuration examples for data centre environments
 ### 🔒 Firewall & Security Infrastructure
 **[`firewall-security/`](./firewall-security/)**
 
-*(Coming soon)*
-
 Firewall policy design, VPN configuration, and network segmentation examples across Juniper SRX and Fortinet platforms. Covers zone-based security, IKEv2 VPN, and DMZ architecture.
 
 ---
 
 ### ☁️ Cloud & Hybrid Networking
 **[`cloud-networking/`](./cloud-networking/)**
-
-*(Coming soon)*
 
 Hybrid cloud connectivity patterns from hands-on experience at DigitalOcean. Covers secure cloud-to-on-premise connectivity, network segmentation in cloud environments, and infrastructure-as-code for network provisioning.
 
