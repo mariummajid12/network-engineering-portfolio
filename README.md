@@ -1,6 +1,6 @@
 # Network Engineering Portfolio
 
-Practical network engineering projects by **Marium Majid** — Network Engineer with 7+ years of experience across enterprise, data centre, and cloud environments.
+Practical network engineering projects by **Marium Majid**, Network Engineer with 7+ years of experience across enterprise, data centre, and cloud environments.
 
 This portfolio demonstrates hands-on skills in network automation, configuration management, infrastructure design, and multi-vendor platform engineering across Cisco, Juniper, Arista, and Fortinet.
 
@@ -8,7 +8,7 @@ This portfolio demonstrates hands-on skills in network automation, configuration
 
 ## Projects
 
-### ⚙️ Network Automation — Configuration Backup Tool
+### ⚙️ Network Automation: Configuration Backup Tool
 **[`network-automation/`](./network-automation/)**
 
 Connects to network devices via SSH to collect device information and back up running configurations. Supports Cisco IOS, Cisco NX-OS, and Juniper JunOS.
@@ -81,9 +81,9 @@ Hybrid cloud connectivity patterns from hands-on experience at DigitalOcean. Cov
 ## About Me
 
 - 7+ years in network engineering across enterprise, data centre, and cloud (DigitalOcean, Jazz, Nayatel)
-- MSc Cybersecurity & Cyber Defense — University of Luxembourg (final semester)
-- Research intern at LIST — secure communication protocols for 6G network digital twin systems
-- Certified ScrumMaster | Certified Scrum Product Owner | eJPT
+- MSc Cybersecurity & Cyber Defense - University of Luxembourg (final semester)
+- Research intern at LIST - secure communication protocols for 6G network digital twin systems
+- Certified ScrumMaster | Certified Scrum Product Owner 
 
 📎 [LinkedIn](https://linkedin.com/in/marium-majid-95a770131) | 🔐 [Cybersecurity Portfolio](https://github.com/mariummajid12/cybersecurity-portfolio)
 
